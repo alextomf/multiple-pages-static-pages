@@ -15,7 +15,11 @@ a:hover {
   text-decoration: underline;
 }
 
-.links {
+footer {
+text-align: center;
+}
+
+footer a {
   text-align: center;
   margin: 0 10px;
 }
